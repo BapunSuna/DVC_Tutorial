@@ -6,7 +6,7 @@ def create_dataframe():
     data = {
         "id":[1,2,3,4,5,6,7,8,9,10],
         "review":[
-            "This product is great!",
+            "This product is great!v2",
             "I love this item.",
             "Not worth the price.",
             "Excellent quality and fast shipping.",
@@ -43,7 +43,7 @@ def process_data(k):
 if __name__ == "__main__":
     df = create_dataframe()
     save_dataframe(df)
-    k = 3  # Number of top features to extract
+    k = 5  # Number of top features to extract
     processed_df = process_data(k)
     print(f"data shape: {df.shape}")
     print(f"Processed data shape: {processed_df.shape}")
