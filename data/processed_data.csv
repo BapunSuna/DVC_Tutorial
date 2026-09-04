@@ -1,0 +1,11 @@
+id,review,not,the,this
+1,This product is great!,0,0,1
+2,I love this item.,0,0,1
+3,Not worth the price.,1,1,0
+4,Excellent quality and fast shipping.,0,0,0
+5,"Terrible experience, will not buy again.",1,0,0
+6,Highly recommend this to everyone.,0,0,1
+7,The product broke after one use.,0,1,0
+8,Fantastic! Exceeded my expectations.,0,0,0
+9,"Mediocre at best, not impressed.",1,0,0
+10,Five stars for sure!,0,0,0
